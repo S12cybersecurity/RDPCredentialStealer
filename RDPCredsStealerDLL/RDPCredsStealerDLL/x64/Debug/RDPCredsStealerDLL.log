@@ -1,0 +1,2 @@
+﻿  dllmain.cpp
+C:\Users\berna\source\repos\RDPCredsStealerDLL\RDPCredsStealerDLL\dllmain.cpp(63,44): error C2065: 'CredUnPackAuthenticationBufferW': identificador no declarado
